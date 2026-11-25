@@ -1,0 +1,86 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "cv": "CV",
+    "education": "Education",
+    "testimonial": "Testimonial",
+    "article": "Article",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Ralph Edwards.",
+    "description": "A dedicated pediatric specialist and clinical researcher with over 12 years of experience, providing compassionate, evidence-based care to children and families at leading medical institutions.",
+    "sendMessage": "Send Message",
+    "downloadCv": "Download CV",
+    "featuredBy": "FEATURED BY:"
+  },
+  "about": {
+    "label": "RALPH EDWARDS",
+    "title": "27+ Years of Neurologists Doctor.",
+    "description": "Board-certified neurologist with nearly three decades of clinical expertise diagnosing and treating complex neurological disorders, combining modern neurodiagnostics with patient-centered care.",
+    "learnMore": "Learn About Me",
+    "successStory": "Patient Success Story"
+  },
+  "workingHistory": {
+    "title": "My Working History",
+    "subtitle": "Clinical leadership and neurology department roles across internationally recognized hospitals.",
+    "current": "CURRENTLY WORKING",
+    "sgh": "Singapore General Hospital",
+    "tokyo": "University of Tokyo Hospital",
+    "hopkins": "Johns Hopkins Hospital"
+  },
+  "qualification": {
+    "title": "My Qualification & Awards",
+    "subtitle": "Academic training and medical honors earned across world-renowned institutions."
+  },
+  "events": {
+    "title": "Latest Event & Show",
+    "bma": "BMA Events",
+    "cesr": "CESR seminar for SAS grade doctors"
+  },
+  "successStories": {
+    "title": "863+ Patients Success Stories",
+    "subtitle": "Reflections from patients and families who experienced personalized neurological diagnosis, treatment, and long-term care."
+  },
+  "testimonial": {
+    "label": "WHAT MY COLLEGE SAYS ABOUT ME.",
+    "quote": "“Life is unpredictable, not everything’s in our control. But as long as you with the right people you can handle anything.”",
+    "author": "MR. John Wick",
+    "designation": "PSYCHIATRIST DOCTOR"
+  },
+  "book": {
+    "title": "The Highly Sensitive Person",
+    "description": "An insightful clinical guide exploring sensory processing sensitivity, neural responsiveness, and practical ways to thrive in high-stimulation environments.",
+    "writtenBy": "WRITTEN BY:",
+    "authorName": "Kevin Gilbert",
+    "point1Title": "Your trait is normal.",
+    "point1Desc": "Understanding heightened sensory processing helps patients recognize sensitivity as an innate temperament rather than a disorder.",
+    "point2Title": "You are also more easily overwhelmed.",
+    "point2Desc": "Learning practical neurological pacing strategies prevents chronic overstimulation and supports lasting emotional balance."
+  },
+  "appointment": {
+    "label": "BOOK AN APPOINTMENT",
+    "title": "Book an Appointment",
+    "description": "Share a few details and I'll confirm your consultation time by email.",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "date": "Preferred Date",
+    "message": "Message",
+    "messagePlaceholder": "Briefly describe what you would like to discuss",
+    "submit": "Send Appointment Request",
+    "success": "Your email app should open with your appointment details. Please send the message to complete your request."
+  },
+  "footer": {
+    "ctaTitle": "Looking for a Neurologists Doctor? Get in touch and let's chat!",
+    "ctaDesc": "Available for clinical consultations, second opinions, academic speaking engagements, and neurology fellowship mentorship.",
+    "getInTouch": "Get In Touch",
+    "location": "LOCATION",
+    "quickLinks": "QUICK LINKS",
+    "followMe": "FOLLOW ME",
+    "copyright": "All content © 2006-Current Winston Potter and respective copyright holders."
+  }
+}
